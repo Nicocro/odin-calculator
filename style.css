@@ -13,8 +13,8 @@
     width: 300px;
 }
 
-.resultBox {
-    flex-basis: 75px;
+.display {
+    flex-basis: 25px;
 }
 
 .digit {
